@@ -1,6 +1,6 @@
 # Cognizant AI Virtual Experience Program: Discover Artificial Intelligence at Cognizant!
 
-Welcome to the repository for the Cognizant AI Virtual Internship Program. This repository contains all the tasks and projects completed during the "Discover Artificial Intelligence at Cognizant" program.
+Welcome to the repository for the Cognizant AI Virtual Internship Program. This repository contains all the tasks and projects completed during the program.
 
 ## Overview
 
